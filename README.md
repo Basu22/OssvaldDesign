@@ -1,2 +1,1 @@
-# CVBaso
-CV Basilio Ossvald
+# OssvaldDesign
